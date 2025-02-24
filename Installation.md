@@ -3,6 +3,7 @@ Tracker
 
 This project is a web application designed to help users track and reduce their carbon footprint. The application includes features such as real-time data visualization, integration with external APIs, and a dynamic user interface.
 
+git@github.com:SarrveshP/waste-classification-using-machine-learning.git
 ## Features
 
 - **Frontend**: Built with React.js for an interactive and responsive UI.
